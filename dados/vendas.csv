@@ -1,0 +1,501 @@
+Id,Data da Venda,Produto,Categoria,Cliente,Vendedor,Filial,Quantidade,Valor Unitário,Valor Total
+1,2023-01-18,assumenda,provident,Sarah Melo,Pietra Jesus,B,8,782.3,6258.4
+2,2023-05-09,ratione,modi,Laís Novaes,Benício Ferreira,A,4,694.33,2777.32
+3,2023-03-27,dicta,molestiae,Pedro Novaes,Bryan da Rosa,B,4,712.1,2848.4
+4,2022-09-25,nobis,placeat,Heloísa Souza,Sofia Melo,A,9,637.46,5737.14
+5,2023-02-05,incidunt,hic,Luna da Paz,Esther Azevedo,A,4,569.36,2277.44
+6,2023-02-24,porro,veniam,Srta. Clara da Mata,Renan Martins,A,4,586.43,2345.72
+7,2023-04-14,iure,perferendis,Gabriel da Cunha,Henrique Silveira,A,1,282.41,282.41
+8,2023-05-03,magni,sunt,Vinicius Gonçalves,Joaquim Costela,A,6,666.04,3996.24
+9,2022-10-06,dolorem,reprehenderit,Dr. Diogo Peixoto,Heloísa Barros,C,2,744.29,1488.58
+10,2022-09-30,dignissimos,vero,Sr. Diogo Ferreira,Maria Eduarda Campos,A,1,663.39,663.39
+11,2023-03-04,impedit,hic,Fernanda das Neves,Dr. Calebe Azevedo,A,2,413.88,827.76
+12,2023-04-08,pariatur,asperiores,Luigi Nogueira,Emanuelly Nogueira,C,7,456.88,3198.16
+13,2023-06-30,officia,molestiae,Carlos Eduardo Novaes,Dr. Miguel Cavalcanti,B,2,768.63,1537.26
+14,2022-12-09,ex,dolor,Matheus da Mata,Eduardo Cardoso,B,6,497.79,2986.74
+15,2023-06-13,ipsam,mollitia,Benício Monteiro,Noah Fogaça,B,4,236.32,945.28
+16,2023-05-18,libero,laudantium,Dra. Gabriela Viana,Valentina Almeida,A,6,638.16,3828.96
+17,2023-09-21,similique,magni,Emanuel Cardoso,Srta. Isadora Azevedo,B,2,766.0,1532.0
+18,2023-05-21,quia,beatae,Vitória Mendes,Letícia Cardoso,B,5,331.48,1657.4
+19,2022-12-29,expedita,deleniti,Davi Lucas Costa,Enrico da Conceição,B,6,470.49,2822.94
+20,2023-05-28,voluptate,ea,Emilly Santos,Luiz Otávio Ribeiro,C,9,894.02,8046.18
+21,2023-06-10,cum,ducimus,Antônio Cavalcanti,Sophie Melo,B,2,823.84,1647.68
+22,2022-10-18,minima,aperiam,Maitê da Rocha,Lucas Correia,B,4,663.29,2653.16
+23,2023-02-16,esse,accusamus,Raul Almeida,Ana Luiza Pires,A,6,158.53,951.18
+24,2023-02-07,atque,optio,Dr. Thiago da Conceição,Luiz Felipe Moraes,A,1,516.7,516.7
+25,2022-11-17,quae,magnam,Sr. Nathan Rezende,Sr. Pietro Vieira,C,10,325.74,3257.4
+26,2022-12-02,saepe,consequatur,Augusto da Cunha,Pedro Lucas Ferreira,C,9,678.9,6110.1
+27,2023-08-16,quas,esse,Sr. Daniel Castro,Sr. Alexandre Moraes,C,1,19.2,19.2
+28,2023-07-25,molestias,distinctio,Mariane Cardoso,Miguel da Mota,B,7,220.59,1544.13
+29,2023-08-13,expedita,dolorum,Alice Rezende,Ana Vitória Moreira,A,4,772.7,3090.8
+30,2023-04-10,unde,doloribus,Lavínia da Conceição,Fernando Costa,C,6,960.82,5764.92
+31,2023-05-17,vitae,odio,Gabriel Cavalcanti,Srta. Lara Azevedo,B,6,55.5,333.0
+32,2023-04-29,enim,ex,Heitor Cardoso,Pietra da Cunha,C,3,686.41,2059.23
+33,2022-12-15,accusamus,totam,Luiz Fernando da Mata,Miguel Viana,A,9,610.28,5492.52
+34,2023-02-23,sint,est,Theo Novaes,Yasmin Nunes,A,9,720.74,6486.66
+35,2023-03-14,quae,earum,Clarice Cardoso,Ana Júlia da Rosa,A,3,403.72,1211.16
+36,2023-06-22,perferendis,quam,Miguel Aragão,Thomas Moura,B,9,13.16,118.44
+37,2023-08-17,beatae,adipisci,Srta. Stephany Nogueira,Srta. Bárbara Rezende,A,5,537.5,2687.5
+38,2022-11-03,earum,eius,Kaique Santos,Vitor Gabriel Santos,C,8,80.49,643.92
+39,2023-08-22,sequi,amet,Alexandre Cunha,João Pedro Rocha,B,3,195.68,587.04
+40,2023-09-22,iste,rem,Sra. Alice Mendes,Vitor Hugo da Costa,A,5,726.53,3632.65
+41,2023-05-21,quia,et,Alice Moura,Rodrigo Lopes,C,10,345.21,3452.1
+42,2023-07-06,quas,atque,Maria Sophia Silveira,Isis Moraes,C,7,402.97,2820.79
+43,2023-07-07,praesentium,magni,Gabrielly Souza,Ana Sophia Rodrigues,A,1,608.14,608.14
+44,2023-04-30,repellat,autem,Maria Cavalcanti,Milena Viana,B,8,131.5,1052.0
+45,2023-03-24,eaque,corrupti,Lucas Alves,Isabel Ramos,C,10,222.86,2228.6
+46,2022-10-18,a,voluptate,Lucas Gabriel Barbosa,Ana Carolina Moraes,C,6,740.7,4444.2
+47,2023-03-31,unde,quidem,Diogo Melo,Heitor Santos,C,3,129.86,389.58
+48,2023-02-08,perspiciatis,aliquam,Gustavo Henrique Azevedo,Dr. Luiz Felipe Nogueira,A,2,702.71,1405.42
+49,2023-06-28,cupiditate,dolorum,João Vitor Pires,Alexandre Aragão,A,4,641.58,2566.32
+50,2022-12-17,beatae,quibusdam,Bryan Carvalho,Guilherme Moraes,A,1,65.57,65.57
+51,2023-06-06,incidunt,dignissimos,Sra. Isadora Porto,Gabriel Costa,B,1,895.6,895.6
+52,2023-01-12,molestiae,debitis,Maysa Jesus,Júlia Costa,C,9,729.26,6563.34
+53,2023-08-15,rem,est,Otávio Rocha,Alexia Caldeira,B,9,220.14,1981.26
+54,2023-07-23,saepe,nihil,Dr. Davi Lucas Barbosa,Laís Costela,A,6,232.37,1394.22
+55,2022-11-28,molestiae,odio,Yasmin Almeida,Vitor Gabriel Azevedo,C,8,886.09,7088.72
+56,2023-05-25,minima,porro,Ana da Cruz,Murilo das Neves,A,10,400.79,4007.9
+57,2023-05-26,esse,odio,Vitor Barros,Joaquim da Costa,A,2,936.3,1872.6
+58,2023-04-15,dolore,officiis,Maria Julia Fogaça,Luiz Gustavo Peixoto,C,7,301.99,2113.93
+59,2023-02-17,debitis,cum,Rebeca Dias,João Guilherme Carvalho,C,8,231.48,1851.84
+60,2022-12-07,temporibus,voluptate,Helena Araújo,Sra. Lara Costa,B,1,178.36,178.36
+61,2023-02-11,alias,mollitia,Lucas Freitas,Júlia Pires,B,2,844.18,1688.36
+62,2022-11-15,impedit,consequatur,Emanuel Mendes,Dr. Ian Teixeira,A,5,650.99,3254.95
+63,2022-11-26,architecto,eius,Ana da Rocha,Ana Carolina Carvalho,C,6,373.46,2240.76
+64,2022-11-12,recusandae,optio,Giovanna Vieira,Dr. Pietro Ramos,A,9,405.16,3646.44
+65,2022-11-08,fugiat,dolorem,Ana Carolina Martins,Sra. Carolina Cunha,B,6,241.17,1447.02
+66,2023-06-04,sed,occaecati,Amanda Gomes,Sofia Nascimento,C,5,343.0,1715.0
+67,2023-02-06,temporibus,voluptas,Luiz Fernando Sales,Felipe da Luz,A,10,497.53,4975.3
+68,2022-12-31,doloremque,nesciunt,Rafaela Moura,Marina da Costa,C,9,611.99,5507.91
+69,2023-05-10,facilis,vel,Gabrielly Vieira,Gabrielly Rodrigues,B,4,877.25,3509.0
+70,2022-11-03,aliquam,voluptatum,Luna Teixeira,Bryan Pinto,B,2,418.43,836.86
+71,2023-09-07,nesciunt,occaecati,Ana Beatriz Teixeira,Emilly Martins,A,8,194.94,1559.52
+72,2023-06-25,voluptatem,libero,Ana Sophia Ribeiro,Rodrigo Pereira,C,8,683.92,5471.36
+73,2022-11-04,ducimus,corrupti,Rafaela Nunes,Isaac Carvalho,B,10,191.04,1910.4
+74,2022-12-12,nobis,reiciendis,Heitor Costa,Luiz Henrique Santos,C,6,830.35,4982.1
+75,2023-03-16,enim,delectus,Benjamin Rodrigues,Eduarda Nunes,B,5,922.93,4614.65
+76,2022-09-26,hic,vero,João Felipe Azevedo,Alícia Lopes,B,7,193.18,1352.26
+77,2023-01-06,vel,et,Dr. Eduardo Rocha,Helena Gomes,A,10,220.86,2208.6
+78,2022-10-18,voluptatibus,et,Dra. Bárbara da Cruz,Nicole da Rosa,A,5,135.66,678.3
+79,2023-06-13,velit,minus,Kamilly Lima,Evelyn Freitas,B,4,82.25,329.0
+80,2023-05-19,minima,officia,Alexandre Ferreira,Bryan da Cunha,C,5,897.48,4487.4
+81,2023-02-12,expedita,ducimus,Luna Viana,Yasmin Santos,B,3,13.99,41.97
+82,2022-12-07,dolores,dolor,Alana Campos,Stella da Costa,B,7,183.23,1282.61
+83,2023-07-20,molestiae,harum,Antônio Caldeira,Luna Viana,C,2,146.55,293.1
+84,2023-09-19,dolorem,saepe,Olivia Monteiro,Dr. Gustavo Henrique Silva,A,8,264.57,2116.56
+85,2023-09-04,molestiae,alias,Sr. Lucas Gabriel Silveira,Enzo Gabriel Pereira,A,10,642.06,6420.6
+86,2023-02-10,accusamus,nobis,Sr. Fernando Porto,Lorena Rezende,A,3,972.35,2917.05
+87,2022-10-17,harum,ut,Nicole Nascimento,Gabrielly Duarte,A,6,462.67,2776.02
+88,2023-07-31,dolorum,ratione,Giovanna Castro,Ana Clara Araújo,A,10,349.03,3490.3
+89,2023-01-04,beatae,facere,Maria Clara da Cunha,Noah Jesus,B,5,388.67,1943.35
+90,2022-12-08,nulla,mollitia,Gustavo Souza,Joaquim Moraes,B,9,970.43,8733.87
+91,2023-08-18,occaecati,culpa,Letícia Mendes,Emanuelly Cunha,A,3,230.75,692.25
+92,2023-08-27,est,quo,Isabelly Castro,Danilo Moura,B,6,13.7,82.2
+93,2023-03-10,harum,error,Gustavo Henrique da Cunha,Stella Pereira,B,1,588.24,588.24
+94,2023-03-11,consequuntur,consectetur,Fernanda Nunes,Noah Fernandes,B,9,58.03,522.27
+95,2022-12-07,beatae,soluta,Dr. Gustavo Henrique Pinto,Augusto Fogaça,B,7,311.08,2177.56
+96,2023-02-07,dolor,fugit,Maysa Moura,Natália Azevedo,B,7,500.99,3506.93
+97,2022-09-30,repellat,explicabo,Vitor Gabriel da Costa,Thomas Farias,B,8,999.8,7998.4
+98,2023-05-04,eos,reprehenderit,Ana Julia Lima,Carlos Eduardo Azevedo,B,9,56.22,505.98
+99,2023-01-27,commodi,eligendi,Maria Clara da Cruz,Isadora Alves,A,2,97.43,194.86
+100,2022-12-16,tenetur,magnam,Maysa Moura,Alexia Teixeira,C,6,228.76,1372.56
+101,2022-12-11,corporis,dolorum,Augusto Melo,Leandro Cardoso,A,7,799.56,5596.92
+102,2023-08-29,quam,dolore,Srta. Carolina Costa,Dr. Caio da Luz,A,6,165.83,994.98
+103,2023-08-03,veniam,mollitia,Alícia Melo,Renan Nascimento,B,3,315.82,947.46
+104,2022-10-13,asperiores,dolore,Pedro Novaes,Eloah Duarte,C,6,323.72,1942.32
+105,2023-03-17,quae,reprehenderit,Gustavo Ferreira,Augusto Porto,A,2,113.75,227.5
+106,2023-04-05,velit,reiciendis,Maria Sophia Araújo,Stephany Sales,B,7,304.27,2129.89
+107,2023-06-19,dolores,saepe,Laís Dias,Gabrielly das Neves,A,3,486.02,1458.06
+108,2023-06-15,doloribus,repellendus,Valentina Rocha,Milena Silveira,C,9,573.26,5159.34
+109,2023-05-29,nobis,adipisci,Sr. Pedro Cardoso,Marina Costela,B,8,177.98,1423.84
+110,2023-02-06,dicta,dolorum,Luigi Fernandes,Clara da Rocha,A,5,417.49,2087.45
+111,2023-07-16,illo,perspiciatis,Emilly Azevedo,Ana Lívia Moreira,B,8,41.72,333.76
+112,2023-05-23,expedita,impedit,Samuel Gomes,Dr. Paulo Lima,C,3,503.91,1511.73
+113,2023-07-05,exercitationem,a,Breno Lopes,Ana Laura Gonçalves,A,9,760.75,6846.75
+114,2023-06-05,in,molestias,Luiz Fernando Moreira,Yasmin Carvalho,C,7,890.53,6233.71
+115,2023-01-12,maiores,dignissimos,Isabelly Rodrigues,Arthur Monteiro,C,1,152.42,152.42
+116,2022-10-02,animi,quidem,Catarina Farias,Maria Luiza Pires,A,4,194.13,776.52
+117,2022-12-01,iste,natus,Kaique da Paz,Sr. Arthur da Cunha,A,5,730.15,3650.75
+118,2022-10-31,vero,at,Pietra Correia,João Guilherme da Mata,B,10,939.12,9391.2
+119,2023-06-20,natus,reiciendis,Alexandre Porto,Enzo Gabriel Cunha,B,9,76.64,689.76
+120,2022-11-21,nulla,hic,Henrique Jesus,Heitor Caldeira,C,6,535.6,3213.6
+121,2023-07-25,neque,in,Diego Rezende,Camila Campos,C,9,329.57,2966.13
+122,2022-12-03,cum,vel,Anthony Costa,Sr. Calebe Vieira,C,9,978.67,8808.03
+123,2023-08-30,tempore,atque,Murilo Novaes,Pedro Miguel da Rocha,B,2,166.08,332.16
+124,2023-04-25,impedit,repellendus,João da Cunha,Emanuel Costela,C,5,37.23,186.15
+125,2022-09-26,minus,sunt,Eloah Carvalho,Isabel da Paz,A,7,164.29,1150.03
+126,2023-07-25,odit,consequuntur,Stella Azevedo,Murilo Moraes,C,5,685.17,3425.85
+127,2022-10-21,enim,a,Dr. Nathan Vieira,Ian Moreira,B,8,894.17,7153.36
+128,2022-12-05,mollitia,reprehenderit,Matheus Peixoto,Caio Ramos,B,10,398.75,3987.5
+129,2023-02-11,rem,dolorum,Sra. Gabrielly Lima,Maria Sophia Martins,B,6,442.17,2653.02
+130,2023-01-01,earum,consequatur,Sofia Porto,Dra. Isabelly Araújo,B,5,244.58,1222.9
+131,2023-02-10,alias,corporis,Samuel da Conceição,Noah Martins,C,8,471.16,3769.28
+132,2023-05-06,cum,ratione,Gabriel da Paz,Vitor Hugo Silva,B,4,397.9,1591.6
+133,2023-04-04,animi,a,Sr. Marcos Vinicius Pinto,Theo Silveira,A,10,632.07,6320.7
+134,2023-08-28,perspiciatis,vitae,Fernanda Azevedo,Maria Oliveira,C,10,352.23,3522.3
+135,2023-01-25,facilis,quas,Manuela Costela,Rebeca Silva,B,3,114.34,343.02
+136,2023-05-07,quam,fugiat,Dra. Júlia Oliveira,Helena Costela,B,8,491.92,3935.36
+137,2022-11-06,sint,dicta,Dr. Theo Azevedo,Emilly Nunes,B,4,908.76,3635.04
+138,2023-07-24,sequi,labore,Pietra da Conceição,Sophia Ribeiro,B,5,563.07,2815.35
+139,2022-11-05,beatae,velit,Sr. Yago Duarte,Emanuel Barbosa,B,8,234.71,1877.68
+140,2022-10-07,est,dolore,Bernardo Rezende,Theo da Paz,B,10,365.59,3655.9
+141,2023-07-04,minus,aliquam,Cauê da Mota,Sr. Noah da Rosa,B,7,155.75,1090.25
+142,2023-03-17,excepturi,consectetur,Lucca da Mata,Vitor Santos,A,10,150.98,1509.8
+143,2023-02-20,similique,id,Ana Júlia Aragão,Dr. Yago da Luz,B,1,737.23,737.23
+144,2023-03-13,aspernatur,dignissimos,Nicole Rezende,Melissa Caldeira,C,2,463.84,927.68
+145,2022-12-31,mollitia,sint,Maria Clara Rodrigues,Isadora Silva,B,10,725.68,7256.8
+146,2023-04-24,aperiam,delectus,Arthur Monteiro,Ana Cardoso,C,8,335.24,2681.92
+147,2023-08-21,labore,assumenda,Sofia Novaes,Sr. Cauã Ferreira,B,2,498.56,997.12
+148,2023-01-03,nulla,hic,Sr. Leonardo Nogueira,Isabella Viana,A,9,51.43,462.87
+149,2023-06-28,officia,corrupti,Diego da Rocha,Calebe Alves,B,3,527.83,1583.49
+150,2023-02-12,quidem,beatae,Vitor Gabriel Jesus,Enzo Cavalcanti,A,4,261.14,1044.56
+151,2022-10-21,natus,voluptas,Olivia das Neves,Marcos Vinicius Sales,B,2,784.81,1569.62
+152,2023-07-08,est,officiis,Rebeca Aragão,Laís Ramos,C,6,299.67,1798.02
+153,2023-07-23,iusto,ut,Eduarda Freitas,Emanuelly da Costa,C,9,220.71,1986.39
+154,2023-07-25,nisi,libero,Yuri Campos,Bryan Souza,A,10,586.47,5864.7
+155,2023-05-16,a,beatae,Nina Jesus,Kevin Novaes,B,6,792.06,4752.36
+156,2023-06-24,optio,ea,Eloah da Conceição,Dr. Rafael Porto,B,3,377.49,1132.47
+157,2023-06-06,consequuntur,odio,Ana Beatriz Fernandes,Giovanna das Neves,A,10,920.48,9204.8
+158,2023-06-25,quaerat,provident,Sr. Davi Caldeira,Melissa Castro,A,6,234.03,1404.18
+159,2023-03-31,in,neque,Joana Barros,Sophie Moraes,B,6,315.82,1894.92
+160,2023-05-20,enim,quis,Camila Jesus,Igor da Rocha,C,6,677.38,4064.28
+161,2023-04-30,neque,modi,Alícia Gonçalves,Sr. Ryan Melo,B,2,738.62,1477.24
+162,2023-05-15,corrupti,ab,Gustavo Nunes,Samuel Melo,A,8,878.74,7029.92
+163,2023-04-17,eaque,officia,Gustavo Cunha,Cauã Silva,C,9,64.36,579.24
+164,2022-10-04,culpa,consequatur,Sra. Caroline Barros,Marcos Vinicius Rodrigues,A,3,328.53,985.59
+165,2022-10-11,ullam,a,Maria Eduarda Silva,Breno Porto,C,1,915.8,915.8
+166,2023-04-15,nemo,expedita,Guilherme Costa,Calebe Correia,B,6,408.67,2452.02
+167,2023-08-25,provident,minus,Dra. Ana Sophia Farias,Laís Mendes,C,8,783.31,6266.48
+168,2023-09-10,suscipit,doloremque,Luiz Felipe Pinto,Gabriela Jesus,C,4,70.6,282.4
+169,2022-12-12,exercitationem,debitis,Eduarda da Cunha,Vitor Hugo Azevedo,A,7,954.16,6679.12
+170,2023-02-07,quasi,vel,Sr. Lucca Dias,Luiza Gomes,A,4,686.3,2745.2
+171,2023-08-24,velit,recusandae,Juan das Neves,Ana Pereira,B,1,589.46,589.46
+172,2023-08-31,recusandae,praesentium,Beatriz Jesus,Pedro Ribeiro,C,6,724.49,4346.94
+173,2023-05-11,consectetur,quae,Bryan Jesus,Pietro Ferreira,A,6,897.68,5386.08
+174,2023-02-11,culpa,distinctio,Sra. Maria Clara Araújo,Rafaela Alves,B,5,780.93,3904.65
+175,2023-06-15,accusantium,molestiae,Lorenzo Castro,Yago Almeida,C,1,949.17,949.17
+176,2023-01-05,repellat,totam,Laís Pinto,Mariane Porto,A,1,719.96,719.96
+177,2023-01-16,sunt,officia,Thomas Moura,Anthony Caldeira,B,6,753.68,4522.08
+178,2023-07-22,vitae,id,Maria Eduarda Carvalho,Breno Duarte,C,9,899.5,8095.5
+179,2023-09-21,accusamus,voluptatum,Dr. Kaique Viana,Vitor das Neves,B,8,441.15,3529.2
+180,2022-10-08,odio,tempora,Augusto Nunes,João Felipe Caldeira,C,3,342.08,1026.24
+181,2023-02-17,consequatur,at,Lorenzo Rocha,Isabel Campos,B,3,245.13,735.39
+182,2023-05-08,ex,autem,Júlia Carvalho,Kamilly Costa,C,5,287.47,1437.35
+183,2022-11-10,commodi,quasi,Ana Júlia Nascimento,Luiz Felipe da Conceição,C,8,71.49,571.92
+184,2023-07-17,iure,sit,Cauê Costa,Nina da Mota,C,8,390.23,3121.84
+185,2023-03-06,ipsum,veniam,Srta. Isabel Cavalcanti,Daniel Ramos,B,1,226.2,226.2
+186,2022-10-22,nam,ducimus,Dr. Theo da Rocha,Davi da Conceição,A,3,374.83,1124.49
+187,2023-05-21,iusto,quaerat,Sophie Cardoso,Lucas da Cunha,B,2,180.45,360.9
+188,2022-10-05,iure,aperiam,Beatriz Rocha,Vinicius da Cruz,B,9,842.11,7578.99
+189,2023-09-14,eligendi,minima,Murilo Dias,Lorena Duarte,C,4,827.93,3311.72
+190,2023-09-16,exercitationem,dolores,Sr. Benjamin Carvalho,Stephany Alves,C,10,32.52,325.2
+191,2023-08-18,blanditiis,accusamus,Yasmin Dias,Alexandre Mendes,C,4,928.26,3713.04
+192,2023-06-23,facere,nobis,Levi Cardoso,Luiz Gustavo Porto,C,3,892.65,2677.95
+193,2022-11-13,consectetur,officia,Heloísa Cardoso,Srta. Alice Monteiro,B,6,176.58,1059.48
+194,2023-02-10,sapiente,hic,Kamilly Barbosa,Enzo da Conceição,A,5,373.94,1869.7
+195,2023-06-19,quas,non,Eduardo Moura,Stephany da Conceição,A,7,213.88,1497.16
+196,2023-05-22,cumque,adipisci,Sra. Elisa Aragão,Laís Costa,A,4,986.78,3947.12
+197,2022-11-24,repudiandae,debitis,Ana Luiza Teixeira,Benício Monteiro,B,6,349.57,2097.42
+198,2023-01-03,incidunt,architecto,Lucas Farias,Sabrina da Luz,A,2,477.05,954.1
+199,2023-09-02,voluptas,expedita,Lorena Barbosa,Sr. Thomas Duarte,A,2,71.87,143.74
+200,2023-02-05,eius,adipisci,Brenda Castro,Srta. Caroline Fernandes,C,5,224.49,1122.45
+201,2023-06-01,consequatur,ex,Marina Cardoso,Nicole Nunes,C,10,621.49,6214.9
+202,2023-04-08,magni,at,Isis Lima,Sabrina Campos,B,10,457.25,4572.5
+203,2023-05-09,animi,fuga,Ian da Rosa,Ana Laura Peixoto,A,9,703.42,6330.78
+204,2023-04-13,dolor,id,Rafael Gomes,Nina das Neves,A,1,331.34,331.34
+205,2023-08-17,fugiat,esse,Mariane Costela,Sr. Isaac da Luz,C,10,801.81,8018.1
+206,2023-08-03,atque,ipsum,Helena Aragão,Marcela Araújo,B,6,851.23,5107.38
+207,2022-11-28,unde,at,Júlia Silveira,Bianca da Conceição,A,6,635.77,3814.62
+208,2023-06-07,exercitationem,maiores,Guilherme da Paz,Maria Eduarda Moura,A,7,848.17,5937.19
+209,2023-08-15,ex,quisquam,Julia Mendes,Luiz Fernando das Neves,A,8,786.63,6293.04
+210,2023-03-05,qui,iure,Luiza Caldeira,Vitória Rocha,C,8,729.48,5835.84
+211,2023-03-18,mollitia,non,Helena Castro,Sr. Eduardo Moraes,A,1,447.85,447.85
+212,2022-11-13,quod,ea,Sr. Rodrigo Viana,Levi Ribeiro,B,3,489.34,1468.02
+213,2023-01-28,doloremque,magnam,Fernando Campos,Kaique Cunha,C,3,256.49,769.47
+214,2023-02-03,aspernatur,laboriosam,Luiz Otávio Dias,Caio Cunha,C,5,339.97,1699.85
+215,2023-05-31,deleniti,aliquam,Sr. Kaique Dias,Vitor Hugo Nunes,A,4,403.77,1615.08
+216,2022-09-30,ea,explicabo,Dra. Amanda Farias,Srta. Lara da Mota,B,3,802.53,2407.59
+217,2022-10-15,asperiores,fugit,Breno Caldeira,Caroline Araújo,B,6,420.98,2525.88
+218,2023-04-10,id,nulla,Srta. Sophia Ramos,Laís Silva,B,4,641.74,2566.96
+219,2023-08-15,reiciendis,doloremque,Sra. Milena Santos,Sr. Joaquim Santos,A,5,588.69,2943.45
+220,2023-04-29,hic,amet,Thiago Monteiro,Sr. Luiz Miguel Moraes,C,1,656.44,656.44
+221,2022-10-28,sit,odio,Dr. Thales Castro,Brenda Fernandes,A,7,494.01,3458.07
+222,2023-07-31,dicta,atque,Pedro Correia,Ana Júlia da Rocha,C,4,336.65,1346.6
+223,2023-03-12,fuga,id,Dra. Isadora Pires,Caroline Freitas,A,3,534.5,1603.5
+224,2022-11-27,eum,deleniti,Valentina Pinto,Juan Gomes,B,5,96.88,484.4
+225,2022-10-10,mollitia,eligendi,Dr. Pietro Mendes,Pietra da Rosa,A,6,924.9,5549.4
+226,2023-05-06,hic,eum,Sophie da Cunha,Emanuella Barros,A,3,727.36,2182.08
+227,2023-09-22,fugit,fugit,Milena Viana,Catarina Carvalho,B,5,701.12,3505.6
+228,2023-01-12,autem,veritatis,Anthony Nogueira,Julia Sales,B,6,127.61,765.66
+229,2023-01-15,consequatur,voluptate,Enzo Gabriel da Cruz,Leandro Pires,B,7,348.0,2436.0
+230,2023-05-10,debitis,ipsa,Larissa Campos,Amanda Rodrigues,C,3,962.76,2888.28
+231,2023-07-28,dolore,odio,Fernando Silveira,Agatha Pinto,A,6,77.76,466.56
+232,2023-02-24,amet,dignissimos,Marcela Pereira,Miguel Pires,A,3,697.74,2093.22
+233,2023-07-09,odit,atque,Pedro Vieira,Ana Vitória Aragão,B,1,28.26,28.26
+234,2023-08-18,beatae,nobis,Manuela Gomes,Bernardo Barros,A,3,352.31,1056.93
+235,2022-10-30,omnis,architecto,Erick da Costa,Srta. Isabel Silveira,B,6,932.6,5595.6
+236,2023-05-23,odit,perspiciatis,Dr. Kaique Ribeiro,Dra. Isadora Duarte,C,3,240.52,721.56
+237,2023-08-10,similique,dolores,Camila Moraes,Diego Souza,C,8,384.96,3079.68
+238,2023-03-01,nam,dolor,Caio da Mota,Emanuel Souza,B,5,567.75,2838.75
+239,2023-02-26,animi,ipsam,Fernando Dias,Davi Luiz Costa,C,10,289.56,2895.6
+240,2023-09-17,alias,sapiente,Larissa Barros,Eduardo Cardoso,C,10,298.8,2988.0
+241,2023-04-29,nam,occaecati,Eloah Mendes,Elisa Araújo,A,1,473.88,473.88
+242,2023-02-08,facere,soluta,Dra. Laís da Luz,João Pedro Silva,C,10,185.93,1859.3
+243,2023-07-19,aliquam,excepturi,Maria Sophia Cardoso,Bárbara Correia,A,10,692.6,6926.0
+244,2023-08-22,porro,minima,Sr. Vicente Moura,Sra. Melissa Campos,C,10,32.03,320.3
+245,2023-06-14,iste,exercitationem,Sr. Felipe da Mata,Elisa Ferreira,C,3,544.13,1632.39
+246,2023-03-08,in,quos,Milena Azevedo,Diogo Azevedo,C,6,876.02,5256.12
+247,2023-05-13,saepe,mollitia,Pedro Miguel Azevedo,Noah da Costa,A,3,836.31,2508.93
+248,2023-03-08,nemo,ut,Miguel Viana,Lorena das Neves,A,5,656.25,3281.25
+249,2023-07-19,veniam,deleniti,Dr. Levi Nunes,Luiz Miguel Porto,A,1,376.59,376.59
+250,2022-12-24,in,maxime,Stephany Costa,Camila Rezende,A,5,367.42,1837.1
+251,2023-03-31,esse,consectetur,Luiz Henrique Gonçalves,Maria Clara Costa,A,2,71.44,142.88
+252,2023-04-16,ullam,dolorem,Isis Fernandes,Sr. Gustavo Fogaça,A,4,396.57,1586.28
+253,2022-11-10,labore,nesciunt,Giovanna Nunes,Igor Nogueira,C,8,530.34,4242.72
+254,2022-11-20,totam,blanditiis,Srta. Maria Fernanda Castro,Luana Lopes,A,6,739.89,4439.34
+255,2023-01-08,assumenda,nulla,Pedro Miguel Caldeira,Dr. Rafael Cardoso,A,3,54.02,162.06
+256,2022-11-19,laboriosam,dolorem,Maria Fernanda das Neves,Valentina Nunes,C,4,101.92,407.68
+257,2022-12-26,repellat,eos,Dr. Daniel da Conceição,Francisco Aragão,B,7,863.12,6041.84
+258,2023-05-29,nisi,ullam,Dra. Caroline Moraes,Benício Fogaça,A,6,246.65,1479.9
+259,2022-11-04,at,placeat,Rafael Pires,Isadora Mendes,A,10,314.81,3148.1
+260,2023-03-05,ducimus,sint,Caroline Araújo,João Pedro Moraes,C,10,666.1,6661.0
+261,2023-03-17,inventore,saepe,Vicente Gomes,Maria Araújo,B,8,19.05,152.4
+262,2022-12-17,cumque,ipsum,Srta. Bruna da Mata,Dr. Anthony Barros,B,1,887.29,887.29
+263,2022-10-19,voluptatum,quos,João Gabriel Freitas,Olivia Melo,C,5,672.16,3360.8
+264,2022-12-31,facere,asperiores,Ana Beatriz Pinto,Yuri da Costa,C,4,151.43,605.72
+265,2023-01-03,recusandae,inventore,Fernanda Rodrigues,Ian Rodrigues,B,3,242.1,726.3
+266,2023-01-20,praesentium,distinctio,Maria Sophia Fogaça,Luiz Miguel Dias,C,7,652.81,4569.67
+267,2023-08-06,quo,excepturi,Marcos Vinicius Gomes,Carolina Rocha,C,4,63.09,252.36
+268,2023-01-24,quo,voluptatum,Breno Aragão,Danilo Alves,C,2,355.56,711.12
+269,2023-06-30,assumenda,dolore,Arthur Costa,Catarina Freitas,C,3,677.15,2031.45
+270,2023-03-22,ipsa,provident,Srta. Mariana da Rocha,Daniela Vieira,C,4,308.57,1234.28
+271,2023-06-16,corrupti,cumque,Dra. Stephany Souza,Srta. Emanuelly Gonçalves,A,2,365.15,730.3
+272,2023-04-21,quaerat,repudiandae,Diogo Rocha,Guilherme Cunha,C,5,199.57,997.85
+273,2022-10-20,quisquam,a,Eduarda Ferreira,Isabelly Moraes,B,2,204.63,409.26
+274,2023-04-29,dolor,doloribus,Gustavo Henrique Viana,Dr. Murilo Correia,C,2,534.73,1069.46
+275,2023-01-23,dicta,velit,Nicolas Almeida,Lucca das Neves,C,6,794.88,4769.28
+276,2022-10-21,quam,sapiente,Nicole Cardoso,Otávio Barbosa,C,5,264.66,1323.3
+277,2022-11-27,quidem,ratione,Ryan Rodrigues,Amanda Melo,C,4,525.36,2101.44
+278,2023-05-18,earum,dicta,Davi Luiz da Luz,Gabriel Carvalho,A,8,758.97,6071.76
+279,2023-03-02,dolor,cum,Alícia da Mota,Maria Julia da Cruz,C,9,809.1,7281.9
+280,2023-09-09,asperiores,quod,Isabella Lopes,Lorenzo Almeida,B,4,603.8,2415.2
+281,2022-12-09,cumque,quis,Vitor Hugo Gonçalves,Joaquim Moraes,B,10,139.95,1399.5
+282,2023-08-17,aliquid,in,Diego Carvalho,Maria Fernanda Santos,A,2,748.7,1497.4
+283,2022-11-28,in,officia,Gabriel Rocha,Clara Oliveira,B,9,56.84,511.56
+284,2023-01-20,est,quos,Stephany Costa,Rodrigo Nogueira,B,8,12.83,102.64
+285,2023-07-02,quod,quod,Vitor Hugo Alves,Daniela Cardoso,C,9,436.63,3929.67
+286,2023-09-22,illum,nam,Ana Caldeira,Camila Aragão,A,10,681.95,6819.5
+287,2023-02-12,culpa,nobis,Juan Cavalcanti,Agatha Fogaça,C,10,184.43,1844.3
+288,2022-11-17,neque,magnam,Daniel Carvalho,Lorenzo Nunes,B,9,748.15,6733.35
+289,2022-11-29,architecto,assumenda,Ana Carolina da Cruz,Davi Lucas Silva,B,5,70.3,351.5
+290,2023-04-11,repellendus,quos,Srta. Gabriela Novaes,Mirella da Luz,C,10,616.24,6162.4
+291,2023-05-06,sed,officia,Davi Lucca Barros,Ana Beatriz Melo,A,1,37.72,37.72
+292,2023-01-07,totam,ratione,Diego Farias,Renan Sales,B,3,21.81,65.43
+293,2023-01-16,aut,reiciendis,Dr. Igor Cavalcanti,Mariana Costela,B,5,476.36,2381.8
+294,2023-03-31,ad,quo,Thomas Cardoso,Letícia Fogaça,A,2,38.74,77.48
+295,2023-09-12,labore,laudantium,Sra. Bruna Moraes,Thales Santos,B,2,406.22,812.44
+296,2023-05-21,soluta,dolores,Dr. Gustavo Henrique Jesus,Marcos Vinicius Santos,C,8,956.91,7655.28
+297,2022-11-21,et,tempora,Carolina Silveira,Bruna Carvalho,B,6,587.9,3527.4
+298,2022-10-27,voluptates,sapiente,Otávio Costa,Sophie da Conceição,A,8,465.9,3727.2
+299,2023-03-18,odio,reprehenderit,Ana Carolina Alves,Mariane Costela,B,1,824.86,824.86
+300,2023-02-06,est,labore,Isabella Farias,Sophie Rezende,C,5,438.95,2194.75
+301,2023-06-21,fugit,recusandae,Emanuel Ramos,Maria Luiza Cunha,A,9,525.97,4733.73
+302,2023-07-12,aliquid,dolorum,Caroline Ferreira,Lorenzo Costa,B,3,744.81,2234.43
+303,2023-02-28,nam,doloremque,Sr. Luiz Miguel da Mota,Yasmin da Mata,A,9,621.09,5589.81
+304,2023-08-03,enim,reprehenderit,Diego Nogueira,Brenda Nunes,A,1,649.03,649.03
+305,2023-01-21,voluptatibus,delectus,Daniel Gomes,Danilo Cardoso,B,6,863.2,5179.2
+306,2023-09-20,exercitationem,placeat,Elisa Fernandes,Caroline Lima,A,2,479.35,958.7
+307,2023-08-24,maiores,iure,Breno Costela,Ryan da Luz,B,5,576.16,2880.8
+308,2022-12-10,eaque,voluptatum,Ian Caldeira,Murilo Mendes,B,2,654.53,1309.06
+309,2022-10-07,optio,nemo,Fernanda Pinto,Alice Duarte,B,5,886.15,4430.75
+310,2022-12-27,sapiente,explicabo,Luigi Jesus,Paulo Cunha,A,2,511.1,1022.2
+311,2023-08-21,sint,asperiores,Maitê Melo,Emanuella Dias,A,5,961.42,4807.1
+312,2023-03-07,ducimus,quidem,Maria Luiza Nascimento,Laura da Mota,C,5,361.31,1806.55
+313,2023-04-16,tenetur,cumque,Caroline Correia,Sra. Sarah Campos,C,6,747.36,4484.16
+314,2023-06-05,qui,nemo,Sr. Isaac Duarte,Sra. Gabrielly Nogueira,C,8,334.4,2675.2
+315,2022-10-13,aliquid,possimus,Luana Pires,Sarah da Mota,C,3,223.08,669.24
+316,2023-02-24,fugit,eveniet,Emilly da Paz,Sr. Noah Gomes,A,10,51.73,517.3
+317,2023-01-14,ratione,saepe,Beatriz Azevedo,Thales Araújo,B,10,580.06,5800.6
+318,2023-07-12,blanditiis,repudiandae,Luiz Gustavo Porto,Sabrina Martins,B,10,639.15,6391.5
+319,2023-03-03,qui,numquam,Sarah Rezende,Rafaela Ramos,A,5,291.13,1455.65
+320,2023-03-16,delectus,voluptas,Eduarda Ribeiro,Yuri Alves,A,5,978.18,4890.9
+321,2023-06-17,soluta,doloremque,Emanuelly Costa,Kamilly Costela,C,5,650.66,3253.3
+322,2023-09-01,similique,laborum,Guilherme Teixeira,João Guilherme Freitas,B,1,649.59,649.59
+323,2023-04-19,et,deserunt,Sra. Heloísa Ramos,Nicole Melo,A,7,957.04,6699.28
+324,2023-07-03,laboriosam,tempore,Theo Vieira,Alexia da Paz,B,1,287.94,287.94
+325,2023-05-26,corporis,voluptate,Sr. Pedro Miguel Moura,Luiz Henrique Pereira,B,1,679.81,679.81
+326,2023-06-06,dignissimos,corrupti,Lavínia Cavalcanti,Bárbara Azevedo,B,6,927.74,5566.44
+327,2023-05-16,illum,enim,Marina Silveira,Sr. Yuri Mendes,A,4,488.71,1954.84
+328,2022-10-09,mollitia,eveniet,Dr. Renan Ribeiro,Ana Clara Novaes,A,8,173.02,1384.16
+329,2023-02-24,tempore,est,Sabrina Pinto,Sra. Isadora da Luz,C,2,710.55,1421.1
+330,2023-05-27,esse,quidem,Davi da Mota,Bryan Fernandes,C,3,223.9,671.7
+331,2023-03-02,quae,fugiat,Levi Duarte,Dr. Raul Rodrigues,B,4,868.31,3473.24
+332,2023-02-11,aperiam,doloribus,Isaac Silva,Fernanda Barbosa,B,5,857.85,4289.25
+333,2023-01-03,fuga,ipsa,Dr. Diego Cunha,Lívia Teixeira,A,6,654.49,3926.94
+334,2023-04-19,a,vel,Lorenzo Barbosa,Renan Nunes,B,10,429.31,4293.1
+335,2023-08-06,necessitatibus,a,Srta. Gabriela Souza,Maysa Mendes,B,8,249.97,1999.76
+336,2023-02-19,dicta,et,Pietro Gomes,Lavínia Ferreira,A,3,273.72,821.16
+337,2022-11-30,fugit,repellendus,Vitor Gabriel Lima,Sr. João Ramos,C,3,858.45,2575.35
+338,2023-08-14,architecto,minus,Bruno da Paz,Rafael Ramos,A,8,624.43,4995.44
+339,2022-12-19,inventore,ea,Dr. Bruno Correia,Júlia Moreira,A,1,637.63,637.63
+340,2023-08-19,voluptatem,voluptatibus,Júlia Campos,Mariane Lima,B,2,970.67,1941.34
+341,2023-05-20,quaerat,nisi,Diogo Novaes,Elisa Moraes,A,2,983.04,1966.08
+342,2022-12-15,voluptatem,illo,Heitor Almeida,Vinicius Barbosa,B,3,850.88,2552.64
+343,2023-08-01,debitis,totam,Augusto Porto,Thiago Aragão,C,5,936.61,4683.05
+344,2023-06-29,iste,qui,Olivia Lopes,Milena Azevedo,A,3,197.88,593.64
+345,2023-06-20,et,architecto,Vitor Hugo Caldeira,Brenda das Neves,A,3,34.04,102.12
+346,2023-02-23,facere,provident,Igor Vieira,Beatriz da Costa,B,7,592.29,4146.03
+347,2023-05-12,in,beatae,Eduarda Costa,Breno Moreira,C,7,95.53,668.71
+348,2022-09-29,doloremque,quos,Diogo Lima,Eloah Nascimento,C,4,928.85,3715.4
+349,2022-12-07,sint,facilis,Marina Costela,Raquel Barbosa,B,4,796.81,3187.24
+350,2023-01-20,voluptatem,nesciunt,Luiz Henrique Moraes,Camila Moura,A,9,824.76,7422.84
+351,2023-03-21,porro,eius,Ana Vitória Melo,Lucca da Rosa,A,6,381.54,2289.24
+352,2023-07-14,distinctio,doloremque,Paulo Martins,Dr. Yuri Porto,A,8,118.59,948.72
+353,2022-10-31,distinctio,eos,Eloah da Rocha,Julia Martins,C,8,39.4,315.2
+354,2022-11-28,asperiores,sed,Davi Costa,João Gabriel Pinto,B,8,431.44,3451.52
+355,2023-06-05,quidem,sed,Francisco Duarte,Leonardo Ribeiro,C,4,166.74,666.96
+356,2022-11-12,blanditiis,rem,Clara Vieira,Ana Júlia Ramos,A,2,785.74,1571.48
+357,2023-06-15,commodi,hic,Daniela da Cunha,Ana Sophia Azevedo,C,3,176.44,529.32
+358,2023-03-27,eveniet,corrupti,Eduardo Martins,Nicole Costa,C,1,379.25,379.25
+359,2022-12-12,repellendus,illo,Yasmin da Rosa,Henrique da Rocha,A,10,424.84,4248.4
+360,2023-02-06,quaerat,mollitia,Augusto Sales,Raquel Porto,B,6,927.68,5566.08
+361,2023-03-15,iure,aliquid,Joana Viana,Joaquim Araújo,B,4,352.46,1409.84
+362,2023-08-24,iure,reprehenderit,Isaac Araújo,Gustavo Henrique das Neves,C,4,814.41,3257.64
+363,2022-11-22,omnis,delectus,Gustavo Henrique Jesus,Nina Silva,B,5,107.03,535.15
+364,2022-12-11,enim,officiis,Vinicius Melo,Davi Teixeira,B,6,130.38,782.28
+365,2023-02-21,repellat,sit,Lorena da Rocha,Rafaela Cunha,B,9,823.85,7414.65
+366,2022-12-03,facilis,asperiores,Sra. Yasmin da Costa,Sophia Lima,A,3,986.14,2958.42
+367,2023-03-04,dignissimos,corrupti,Ana Luiza Mendes,Bernardo Viana,C,8,268.63,2149.04
+368,2023-08-02,quam,quae,Guilherme Cardoso,Maria Clara Cardoso,B,5,60.5,302.5
+369,2022-10-12,quibusdam,molestias,Marcos Vinicius Sales,Nicolas Gomes,A,8,252.03,2016.24
+370,2023-05-27,voluptatem,tempora,Gabriela Moreira,Laura da Rosa,B,3,21.7,65.1
+371,2023-03-25,tempora,numquam,Renan das Neves,Sabrina Castro,C,3,800.24,2400.72
+372,2023-01-06,maxime,vero,Isis Melo,Dr. Caio da Rocha,C,2,202.15,404.3
+373,2023-01-27,nesciunt,nostrum,Ana Sophia Ramos,Kevin Duarte,C,6,969.65,5817.9
+374,2022-12-28,occaecati,error,Francisco Viana,Kevin da Conceição,A,3,500.69,1502.07
+375,2023-05-15,ratione,molestiae,Evelyn Rezende,Srta. Vitória Fogaça,C,2,376.59,753.18
+376,2023-03-24,porro,asperiores,Mirella Lopes,André Carvalho,B,7,728.67,5100.69
+377,2023-04-24,cum,rem,Nicole Peixoto,Sra. Cecília Martins,C,3,134.63,403.89
+378,2023-03-01,vel,veritatis,Clarice Dias,Valentina Moreira,C,7,273.32,1913.24
+379,2022-10-01,deleniti,assumenda,Isadora Almeida,Isabelly Azevedo,B,10,194.78,1947.8
+380,2023-08-12,aperiam,voluptatem,Giovanna Martins,Alexandre Alves,B,10,416.41,4164.1
+381,2023-07-24,repellat,at,Dra. Lívia Cunha,Bryan Pires,C,2,249.87,499.74
+382,2023-06-25,ea,ipsam,Sophia Sales,Daniela Gomes,A,8,457.91,3663.28
+383,2023-07-20,eaque,debitis,Ana Beatriz Souza,Cauê Fernandes,B,1,485.86,485.86
+384,2022-12-04,corrupti,ducimus,Maria Julia Barbosa,Bryan Santos,B,4,165.36,661.44
+385,2023-01-04,quasi,quod,Lucas das Neves,Clara da Mota,C,2,966.19,1932.38
+386,2023-08-24,sint,quos,Dr. Davi Lucas Nunes,Lorena Jesus,C,1,398.76,398.76
+387,2023-03-06,beatae,nisi,Lorenzo Jesus,Pietro Novaes,A,8,475.96,3807.68
+388,2023-01-28,voluptatum,illo,Sra. Maria Julia da Cruz,Arthur Melo,C,4,231.78,927.12
+389,2023-03-26,reiciendis,est,Daniel Lima,Maria Vitória Fernandes,C,10,144.01,1440.1
+390,2023-04-04,autem,fugiat,João Ramos,Danilo Mendes,C,1,818.15,818.15
+391,2023-05-26,voluptatum,qui,Caroline da Rosa,Mariana Viana,C,3,231.08,693.24
+392,2023-01-21,recusandae,neque,Sra. Alexia Araújo,Juliana Barbosa,A,1,231.56,231.56
+393,2023-07-01,consequuntur,sed,Mariane Cardoso,Sr. Kaique Rezende,B,5,208.03,1040.15
+394,2023-05-18,voluptatibus,minima,Ana Júlia Viana,Gustavo Duarte,A,6,507.91,3047.46
+395,2022-10-05,est,fuga,Evelyn Gomes,Fernanda Santos,C,5,76.87,384.35
+396,2022-10-18,fugit,non,Dra. Emilly Ferreira,Letícia Nascimento,C,9,17.31,155.79
+397,2022-12-26,expedita,perspiciatis,Marcelo Viana,Juliana Cavalcanti,C,10,958.95,9589.5
+398,2022-12-31,praesentium,soluta,Sarah da Mota,João Guilherme Ferreira,C,1,561.12,561.12
+399,2022-12-11,quasi,pariatur,Ana Júlia Nunes,João Miguel Araújo,C,6,112.59,675.54
+400,2022-12-28,numquam,deleniti,Sr. Samuel da Cruz,Bryan da Cunha,C,5,158.97,794.85
+401,2023-01-27,vero,dolorum,Joana Nogueira,Leandro da Mata,B,7,371.83,2602.81
+402,2022-11-14,nobis,in,Igor Gonçalves,Ana Clara Alves,A,1,164.4,164.4
+403,2023-09-21,beatae,consectetur,Fernanda Pinto,Ana Júlia Teixeira,B,7,603.26,4222.82
+404,2023-02-09,omnis,magnam,Nina da Paz,Leonardo Ramos,C,6,604.6,3627.6
+405,2023-02-11,quisquam,quos,Marcelo Lima,Pedro Freitas,B,9,616.19,5545.71
+406,2022-09-27,facere,quasi,Dra. Sabrina Araújo,Sr. Nathan Fogaça,B,7,466.09,3262.63
+407,2023-05-17,libero,inventore,Clarice Farias,Helena Jesus,C,10,757.22,7572.2
+408,2023-03-10,atque,optio,Nathan Lima,Samuel Sales,A,1,833.08,833.08
+409,2022-11-10,sequi,tempore,Srta. Maria Fernanda da Rocha,Thales da Rosa,B,8,509.89,4079.12
+410,2023-04-27,eos,animi,Calebe Lima,Thomas Campos,B,2,412.05,824.1
+411,2023-04-13,dicta,doloremque,Sr. Luiz Henrique Silva,Sra. Rafaela Teixeira,C,9,927.96,8351.64
+412,2023-09-02,tempora,quam,Dra. Yasmin da Costa,Anthony Carvalho,C,8,845.0,6760.0
+413,2023-01-12,repellat,nisi,Paulo Dias,Mirella Lopes,C,1,893.72,893.72
+414,2022-10-29,laboriosam,illo,Carlos Eduardo Peixoto,Eduarda Campos,C,5,522.37,2611.85
+415,2023-03-20,minus,laboriosam,Lorenzo Porto,Srta. Clarice das Neves,C,5,743.05,3715.25
+416,2023-05-15,consequuntur,perspiciatis,Sra. Maria Vitória Alves,Isabel Moreira,C,9,866.02,7794.18
+417,2023-04-03,sunt,asperiores,Bruna da Conceição,Sra. Laís Caldeira,B,8,771.25,6170.0
+418,2023-05-03,quibusdam,illum,Maitê Nunes,Pietra Silva,C,3,299.49,898.47
+419,2023-02-24,delectus,adipisci,Clara Teixeira,Gabrielly Fogaça,A,1,314.17,314.17
+420,2023-07-17,suscipit,ea,Davi Luiz Barbosa,Ana Julia Gomes,C,8,673.26,5386.08
+421,2022-12-21,asperiores,dolorum,Ian Melo,Alana Alves,C,10,246.2,2462.0
+422,2023-03-27,provident,minus,Cauê Santos,Eduarda Gomes,C,7,463.7,3245.9
+423,2023-06-23,aperiam,sit,Mariana da Cruz,Maria Vitória Jesus,B,7,290.79,2035.53
+424,2023-04-15,laboriosam,laboriosam,Dra. Heloísa Castro,Dr. Matheus da Mota,C,3,853.27,2559.81
+425,2023-03-17,quisquam,ea,Clara Dias,Dr. Anthony Cardoso,A,8,114.78,918.24
+426,2023-06-25,labore,accusamus,Ana Sophia Freitas,Maria Pereira,C,9,536.16,4825.44
+427,2023-09-12,reprehenderit,earum,Dr. Bryan da Luz,Thomas Peixoto,A,6,864.78,5188.68
+428,2023-08-23,ullam,quis,Júlia Martins,Vicente da Cruz,B,6,214.98,1289.88
+429,2023-02-25,numquam,nulla,Sra. Sophie Campos,Augusto Araújo,C,1,487.68,487.68
+430,2022-10-27,ratione,temporibus,Rafaela Ribeiro,Felipe Nascimento,C,1,352.15,352.15
+431,2023-06-23,quidem,commodi,Srta. Mirella Dias,Cecília Almeida,B,10,692.31,6923.1
+432,2022-12-09,impedit,officiis,Maria Eduarda Gomes,Bryan Farias,C,6,259.52,1557.12
+433,2022-11-24,fugiat,deserunt,Eduarda Freitas,Maria Fernanda Araújo,C,8,901.93,7215.44
+434,2023-03-25,asperiores,earum,Leandro Nascimento,Maria Vitória Ferreira,C,2,828.78,1657.56
+435,2023-03-24,quasi,maxime,Dr. Eduardo Rezende,Noah da Costa,C,10,951.55,9515.5
+436,2023-02-15,velit,culpa,Fernando Cardoso,Clara Araújo,B,8,301.41,2411.28
+437,2023-02-17,tenetur,ipsa,Cecília Moraes,Caio Mendes,C,10,130.28,1302.8
+438,2022-10-13,repudiandae,est,Thomas da Conceição,Marcela Costela,A,5,587.08,2935.4
+439,2023-08-06,molestiae,unde,Cecília da Luz,Gabriela Lopes,B,8,663.21,5305.68
+440,2023-05-30,occaecati,dignissimos,Nathan Lopes,Pedro Barbosa,B,9,977.61,8798.49
+441,2023-07-26,fugiat,necessitatibus,Ian Monteiro,Heloísa Silveira,A,2,648.21,1296.42
+442,2023-08-05,sunt,maiores,Luiz Fernando Araújo,Leandro Nogueira,A,5,181.95,909.75
+443,2023-08-07,laudantium,maiores,Sr. Ryan da Rocha,Eduardo Duarte,A,5,510.57,2552.85
+444,2022-10-15,facere,tempora,Anthony da Luz,Maria Clara Duarte,B,8,872.09,6976.72
+445,2022-12-11,repellendus,pariatur,Kamilly Porto,Sra. Julia Fernandes,B,1,181.7,181.7
+446,2022-12-11,vitae,sunt,Maria Eduarda Cunha,Rodrigo Pinto,A,4,651.14,2604.56
+447,2023-03-23,nostrum,dolorum,Sra. Ana Lívia da Conceição,Elisa Lopes,A,4,592.9,2371.6
+448,2022-12-25,adipisci,aperiam,Lívia da Mota,Sr. Arthur Lopes,B,8,246.08,1968.64
+449,2022-09-25,quisquam,temporibus,Joaquim Dias,Luna Melo,B,8,182.37,1458.96
+450,2022-11-06,odio,cum,Sophie Cardoso,Bruna Barbosa,B,5,703.52,3517.6
+451,2023-01-27,odit,eos,Paulo Martins,Bruna da Rosa,B,9,113.81,1024.29
+452,2023-01-15,impedit,corporis,Maria Vitória Novaes,Vitor Hugo Costela,A,5,947.91,4739.55
+453,2023-09-19,pariatur,enim,Heloísa Correia,Joana Ramos,A,4,526.38,2105.52
+454,2023-05-20,nam,maiores,Gabriela Gonçalves,Isaac Cardoso,C,3,773.91,2321.73
+455,2023-04-21,ab,necessitatibus,Pedro Vieira,Ana Lívia Gomes,B,1,834.8,834.8
+456,2023-01-06,assumenda,a,Sra. Maria Sophia Castro,Luiz Miguel da Conceição,C,5,304.56,1522.8
+457,2023-07-24,architecto,quisquam,Pietro da Cruz,Dra. Clarice das Neves,A,6,641.1,3846.6
+458,2023-03-23,nemo,voluptate,Sra. Lorena Costa,Nathan Souza,A,3,680.69,2042.07
+459,2022-09-29,laboriosam,ea,Luiz Henrique Farias,Bryan Pereira,C,8,394.88,3159.04
+460,2023-08-22,eligendi,repellendus,Joana Jesus,Guilherme Barros,B,2,11.26,22.52
+461,2022-10-01,repellat,error,Clarice Sales,Stephany Nascimento,C,2,940.14,1880.28
+462,2023-08-18,minima,provident,Pedro Peixoto,Marcela Gomes,B,7,321.5,2250.5
+463,2023-01-28,nesciunt,officia,Arthur Carvalho,Ana Júlia da Conceição,B,3,397.24,1191.72
+464,2023-01-11,ducimus,ad,Vitor Gabriel Costela,Stella Souza,A,4,408.61,1634.44
+465,2023-03-02,dolorum,laboriosam,Maitê Ferreira,Maria Cecília Nascimento,C,8,364.85,2918.8
+466,2022-10-16,occaecati,dolorum,Gustavo Ferreira,Pedro Lucas Melo,C,1,381.08,381.08
+467,2022-12-18,harum,vitae,Diego Santos,Sophie Monteiro,B,7,141.96,993.72
+468,2022-11-08,suscipit,impedit,Ryan Teixeira,Yasmin da Paz,B,10,604.17,6041.7
+469,2023-06-10,minus,molestiae,Vicente Costela,Vinicius Martins,C,1,527.71,527.71
+470,2022-11-16,quam,excepturi,Sr. Igor Viana,Júlia Nascimento,C,9,13.61,122.49
+471,2023-03-15,nam,aliquam,Juan Cavalcanti,Emanuella Cavalcanti,B,6,592.82,3556.92
+472,2023-07-10,possimus,necessitatibus,Júlia Martins,Heloísa Campos,C,7,975.11,6825.77
+473,2023-03-08,alias,temporibus,João Miguel Barros,Kaique Viana,B,1,765.45,765.45
+474,2022-11-18,temporibus,ratione,Sra. Evelyn Pinto,Thales Castro,A,7,672.09,4704.63
+475,2023-07-01,consequuntur,sapiente,Cauã Gomes,Dr. Gustavo Henrique Pereira,C,3,68.61,205.83
+476,2023-05-27,non,nostrum,Ian Pereira,Lara Ribeiro,B,10,136.35,1363.5
+477,2023-03-21,libero,eius,João Gabriel Aragão,Luiz Felipe Aragão,A,6,663.7,3982.2
+478,2023-01-16,error,odio,Sr. Miguel da Mata,Olivia Almeida,A,10,105.03,1050.3
+479,2023-03-07,quod,repudiandae,Ana Luiza Costa,Letícia Pinto,A,4,338.79,1355.16
+480,2023-07-29,hic,quidem,Sr. Theo Silveira,Kevin Viana,B,10,261.07,2610.7
+481,2023-06-20,rem,suscipit,Thiago Cunha,Antônio Pires,A,3,258.84,776.52
+482,2023-06-21,quidem,dolorum,João Gabriel Martins,Marcos Vinicius Monteiro,A,10,172.44,1724.4
+483,2023-02-09,quo,voluptatibus,Srta. Sophie Fernandes,Kevin da Mota,C,10,947.16,9471.6
+484,2022-10-26,eaque,exercitationem,Daniela da Mata,Benjamin das Neves,A,6,795.55,4773.3
+485,2023-04-28,minima,veniam,Clarice da Costa,Gustavo Henrique Pires,B,5,481.53,2407.65
+486,2023-05-27,aut,qui,Sra. Maria Cecília Costela,Beatriz Barbosa,C,10,774.05,7740.5
+487,2023-09-09,aperiam,molestias,Mariana Fogaça,Isaac Dias,A,4,271.18,1084.72
+488,2023-05-17,delectus,itaque,Lívia Barbosa,Luiz Henrique da Cunha,A,5,785.81,3929.05
+489,2023-01-01,beatae,deserunt,Nicolas Silva,Júlia Campos,B,8,547.19,4377.52
+490,2023-07-15,cupiditate,culpa,Lívia da Luz,Dr. Lucas Gabriel Caldeira,B,8,140.09,1120.72
+491,2023-02-12,eos,mollitia,João Ribeiro,Olivia Araújo,B,3,215.83,647.49
+492,2022-11-21,aspernatur,magnam,Helena Jesus,Júlia Duarte,A,8,672.36,5378.88
+493,2023-02-21,dolore,cum,Laura Cunha,Emilly Peixoto,C,5,909.51,4547.55
+494,2023-04-14,temporibus,perferendis,Giovanna Ferreira,Ana Laura Rocha,A,1,70.58,70.58
+495,2023-05-16,aliquid,eius,Bruna Aragão,Ana Beatriz Moura,A,5,992.86,4964.3
+496,2023-09-23,excepturi,consectetur,Maria Fernanda Araújo,Otávio Santos,A,4,219.61,878.44
+497,2023-02-09,perspiciatis,alias,Laís Farias,Eduardo Cardoso,C,7,158.43,1109.01
+498,2023-09-17,magnam,incidunt,Dr. Luigi Fernandes,Erick Cardoso,C,9,177.21,1594.89
+499,2023-04-23,ut,at,Srta. Catarina Gomes,Breno Moreira,C,10,736.01,7360.1
+500,2023-01-14,ea,exercitationem,Catarina Cunha,Dra. Kamilly Moreira,C,10,325.12,3251.2
